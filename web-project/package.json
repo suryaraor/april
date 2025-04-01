@@ -1,0 +1,21 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "A web project featuring an April Fool's message on the home page.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build step not defined yet.'"
+  },
+  "keywords": [
+    "April Fool's",
+    "web",
+    "project"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
